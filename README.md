@@ -6,6 +6,7 @@ The prepation includes installation and configuration of Nginx and Docker and de
 # Software Installed
 - OS: Ubuntu 16.04
 - Docker 18.06.1-ce
+- Docker-compose version 1.22.0
 - Nginx 1.10.3
 
 
